@@ -1,0 +1,3 @@
+This is a new file created using Git Bash!
+Hello world!
+Welcome to my project.
